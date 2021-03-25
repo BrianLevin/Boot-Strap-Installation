@@ -58,4 +58,10 @@ transform: rotate(25deg);
 .fas {
 
     color: #ef8172;
+
+    margin-top: 30%;
+}
+
+p {
+    font:#8f8f8f;
 }
