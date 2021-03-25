@@ -8,7 +8,7 @@ background-color: #ff4c68;
 h1 {
 
     font-family: 'Montserrat', sans-serif;
-
+  color: white;
     size: 3rem;
 Line-Height: 1.5;
 
@@ -17,5 +17,9 @@ Line-Height: 1.5;
 .container{
 
     padding: 3%, 15%;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+
 }
 
