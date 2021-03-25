@@ -2,9 +2,14 @@
 
 background-color: #ff4c68;
 
-font-family: 'Montserrat', sans-serif;
-font: "Montserrat-Black";
-size: 3rem;
+
+
+}
+h1 {
+
+    font-family: 'Montserrat', sans-serif;
+
+    size: 3rem;
 Line-Height: 1.5;
 
 }
