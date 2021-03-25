@@ -55,12 +55,7 @@ width: 60%;
 transform: rotate(25deg);
 
 }
-.fas {
 
-    color: #ef8172;
-
-    margin-top: 30%;
-}
 
 p {
     font:#8f8f8f;
@@ -69,4 +64,10 @@ p {
 h3 {
 
     size: 1.5rem;
+}
+
+#features {
+
+    padding: 7% 15%;
+
 }
