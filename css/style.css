@@ -17,11 +17,6 @@ p {
 
 
 
-h3 {
-font-size: 1.5rem;
-
-}
-
 .big-heading {
     font-family: 'Montserrat', sans-serif;
   
@@ -106,6 +101,11 @@ right: 30;
     padding: 7% 15%;
 
     background-color: #fff;
+
+}
+
+.feature-title{
+    font-size: 1.5rem;
 
 }
 
