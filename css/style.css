@@ -1,3 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+
+    font-family: 'Montserrat', sans-serif;
+  
+    size: 3.5rem;
+Line-Height: 1.5;
+
+}
+
+
+p {
+    color:#8f8f8f;
+}
+
+h2 {
+
+font-family: "Montserrat";
+font-size: 3rem;
+
+line-height: 1.5;
+
+}
+
+h3 {
+
+
+    font-family: 'Montserrat'
+}
+
+
+
 #title {
 
 background-color: #ff4c68;
@@ -11,14 +47,7 @@ color: white;
 
 
 
-h1 {
 
-    font-family: 'Montserrat', sans-serif;
-  
-    size: 3.5rem;
-Line-Height: 1.5;
-
-}
 
 .container{
 
@@ -26,10 +55,10 @@ Line-Height: 1.5;
 
 
 }
-body {
-    font-family: 'Montserrat', sans-serif;
 
-}
+
+
+
 .navbar {
 padding-bottom: 0 0 4.5rem;
 
@@ -68,24 +97,6 @@ right: 30;
 }
 
 
-p {
-    color:#8f8f8f;
-}
-
-h2 {
-
-font-family: "Montserrat";
-font-size: 3rem;
-
-line-height: 1.5;
-
-}
-
-h3 {
-
-
-    font-family: 'Montserrat'
-}
 /* position relative*/
 #features {
 
