@@ -15,14 +15,7 @@ p {
     color:#8f8f8f;
 }
 
-h2 {
 
-
-font-size: 3rem;
-
-line-height: 1.5;
-
-}
 
 h3 {
 font-size: 1.5rem;
@@ -34,6 +27,12 @@ font-size: 1.5rem;
   
     size: 3.5rem;
 Line-Height: 1.5;
+
+}
+
+.section-heading {
+font-size: 3rem;
+line-height: 1.5;
 
 }
 
@@ -134,6 +133,14 @@ background-color: #ef8172;
 color: #fff;
 
 }
+.testimonial-text {
+font-size: 3rem;
+
+line-height: 1.5;
+
+}
+
+
 .testimonial-image {
 
     width: 10%;
@@ -168,6 +175,13 @@ color: #fff;
 
     padding: 100px;
 text-align: center;
+
+}
+
+.price-text {
+font-size: 3rem;
+
+line-height: 1.5;
 
 }
 
