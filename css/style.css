@@ -32,16 +32,7 @@ line-height: 1.5;
 }
 
 
-#title {
 
-background-color: #ff4c68;
-color: white;
-
-text-align: left;
-
-
-
-}
 
 #title .container {
 padding: 3% 15% 7%;
@@ -57,6 +48,20 @@ padding: 3% 15% 7%;
     padding: 7%  15%;
 
 
+}
+
+.colored-section {
+    background-color: #ff4c68;
+    color: white;
+    
+    text-align: left;
+    
+
+}
+
+.white-section {
+
+background-color: white;
 }
 
 
@@ -134,7 +139,7 @@ padding: 5px;
 
 
 background-color: #ef8172;
-color: #fff;
+
 
 }
 .testimonial-text {
@@ -204,15 +209,6 @@ text-align:  center;
 
 }
 
-#cta {
-
-    background-color: #ff4c68;
-    color: #fff;
-
-    
-
-  
-}
 
 
 
