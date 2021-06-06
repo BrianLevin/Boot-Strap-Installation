@@ -5,7 +5,7 @@
 A mock dating site for dogs to meet other dogs. It it includes 5 main sections throughout  the index homepage and a footer at the end. The website was styled using HTML, CSS, and Bootsstrap.
  
 
- ## Click [here](https://brianlevin.github.io/My-Personal-Site/) for the live app. 
+ ## Click [here](https://brianlevin.github.io/Tin-Dog/) for the live app. 
  
  This is the home screen:
  
