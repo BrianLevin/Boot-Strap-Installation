@@ -7,35 +7,33 @@ A mock dating site for dogs to meet other dogs. It it includes 5 main sections t
 
  ## Click [here](https://brianlevin.github.io/Tin-Dog/) for the live app. 
  
- This is the home screen:
+ This is the home screen with navigation links that go directly to each section when clicked:
  
- ![Home Screenshot](images/home.png)
+ ![Home Screenshot](images/section2.png)
  
- This is  a breif introduction to who I am:
+ These are breif bullets points explaing the benefits of the website:
  
-![Events Screenshot](images/intro.png)
+![Events Screenshot](images/bulletpoints.png)
   
-  
- This section introduces my skills
+  This is the testimonials section of the website: 
  
-  ![Events Screenshot](images/skill.png)
-  ![Events Screenshot](images/skill2.png) 
+  ![Events Screenshot](images/testimonial1.png)
+  ![Events Screenshot](images/testimonial2.png) 
   
- This section displays where to click to contact me:
+ This section displays  the type of plans that can be chosen
   
-  ![Events Screenshot](images/contact.png)   
+  ![Events Screenshot](images/plan.png)
   
-  ![Events Screenshot](images/contact2.png)  
-       
-  The contact page displays   a nasic form  with minimal styling  how to get in contact  with meme
-  
-  ![Events Screenshot](images/cpage1.png)
-  ![Events Screenshot](images/cpage2.png)   
-     
+  The final section shows where the app can be downloaded using apple or samsung:
+    ![Events Screenshot](images/download1.png)
+    ![Events Screenshot](images/download2.png)   
+    
+    
 ## Libraries and Frameworks:
 
 - HTML
 - CSS
+- Bootstrap
 
 ## Email:
 
