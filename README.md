@@ -7,7 +7,7 @@ A mock dating site for dogs to meet other dogs. It it includes 5 main sections t
 
  ## Click [here](https://brianlevin.github.io/Tin-Dog/) for the live app. 
  
- This is the home screen with navigation links that go directly to each section when clicked:
+ This is the home page with navigation links that go directly to each section when clicked:
  
  ![Home Screenshot](images/section2.png)
  
